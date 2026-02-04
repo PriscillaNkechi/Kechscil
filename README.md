@@ -7,7 +7,6 @@ I studied Policy Studies and Administration.
 - [Twitter](https://twitter.com/PriscillaNkechi?t=nRr6R3KTuu5uNrhmoXC_Kg&s=08)
 
 - Pronoun: She
-
-Kechscil/Kechscil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PriscillaNkechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
